@@ -2,6 +2,7 @@
 
 _Repositorio para guardar codigos de Python desde lo mas basico hasta proyetos_
 
-* Basico [Aqui](./Basico)
+* Basico [Aqui](./1-Basico)
+* Manejo de Datos [Aqui](./2-Manejo de Datos)
 
 _By_:*Linux_Cuba*
