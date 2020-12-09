@@ -1,4 +1,4 @@
 # Excepciones
 
 * Errores
-* Creando Execepciones
+* Creando Excepciones
