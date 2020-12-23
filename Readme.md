@@ -9,4 +9,6 @@ _Repositorio para guardar codigos de Python desde lo mas basico hasta proyetos_
 * Programacion Orientada a Objetos [:five:](./5-POO)
 * Scripts [:six:](./Scripts)
 
+**Guia un poco incompleta, en unos dias estara mejor conformada**
+
 _By_:*Linux_Cuba*  :cloud: :es:
