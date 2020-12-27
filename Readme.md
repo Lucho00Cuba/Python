@@ -11,4 +11,6 @@ _Repositorio para guardar codigos de Python desde lo mas basico hasta proyetos_
 
 **Guia un poco incompleta, en unos dias estara mejor conformada**
 
+**_Pronto_**
+
 _By_:*Linux_Cuba*  :cloud: :es:
