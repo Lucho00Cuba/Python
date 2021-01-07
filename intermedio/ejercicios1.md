@@ -25,3 +25,5 @@
     * AVENTURA: CRASH, PRINCE OF PERSIA, ASSASINS CREED
     * DEPORTES: FIFA, PES, MOTO GP
     * Mostrar la informacion ordenada
+
+[Resueltos](../src/ejercicios1.py)

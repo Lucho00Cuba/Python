@@ -1,6 +1,7 @@
 # Seccion Intermedia
 
-* Funciones
-* Listas y Tuplas
-* Diccionarios y Sets
-* Ejercicios
+* Funciones [Aqui](./funciones.md)
+* Listas [Aqui](./listas.md)
+* Diccionarios [Aqui](./diccionarios.md)
+* Sets [Aqui](./sets.md)
+* Ejercicios [Aqui](./ejercicios1.md)

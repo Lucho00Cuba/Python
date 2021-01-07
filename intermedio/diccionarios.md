@@ -3,4 +3,4 @@
 
 _Una coleccion de datos que almacena datos. En formato clave > valor_
 
-[Diccionarios](./src/diccionarios.py)
+[Diccionarios](../src/diccionarios.py)

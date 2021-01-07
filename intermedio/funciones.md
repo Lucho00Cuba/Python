@@ -85,4 +85,4 @@ len() # -> Saber longitud de un dato
 find() # -> Buscar un dato
 ```
 
-[Funciones](./src/funciones.py)
+[Funciones](../src/funciones.py)
