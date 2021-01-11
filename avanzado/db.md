@@ -7,7 +7,7 @@ _Un sistema gestor de base de datos (SGBD) es un conjunto de programas que permi
 
 _SQLite es un sistema de gestión de bases de datos relacional_
 
-[SQLite](./src/sqlite/sqlite.py)
+[SQLite](../src/sqlite/sqlite.py)
 
 [Recurso](https://likegeeks.com/es/tutorial-de-python-sqlite3/)
 
@@ -15,6 +15,6 @@ _SQLite es un sistema de gestión de bases de datos relacional_
 
 _MySQL es un sistema de gestión de bases de datos relacional_
 
-[MySQL](./src/mysql/main.py)
+[MySQL](../src/mysql/main.py)
 
 [Recurso](https://parzibyte.me/blog/2018/09/18/python-3-mysql-crud-ejemplos-conexion/)

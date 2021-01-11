@@ -3,4 +3,4 @@
 
 _Son funcionalidades ya hechas para reutilizar_
 
-[Modulos](./src/modulos/main.py)
+[Modulos](../src/modulos/main.py)

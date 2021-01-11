@@ -1,4 +1,4 @@
 
 # Paquetes 
 
-[Paquetes](./src/paquete/main.py)
+[Paquetes](../src/paquete/main.py)

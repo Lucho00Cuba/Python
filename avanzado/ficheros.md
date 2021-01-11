@@ -1,4 +1,4 @@
 
 # Ficheros
 
-[Ficheros](./src/ficheros.py)
+[Ficheros](../src/ficheros.py)
