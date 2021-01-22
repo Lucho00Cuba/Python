@@ -1,6 +1,6 @@
 ## Seccion Avanzada
 
-* Execpciones [Aqui](../src/excepciones.py)
+* Excepciones [Aqui](../src/excepciones.py)
 * Modulos y Paquetes [Aqui](../src/m&p/m&p.md)
 * Sistema de archivos [Aqui](../src/ficheros.py)
 * POO [Aqui](../src/poo/poo.md)
